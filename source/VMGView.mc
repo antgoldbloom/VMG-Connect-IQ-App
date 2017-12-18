@@ -197,7 +197,7 @@ class PositionSampleView extends Ui.View {
 			
 		            
     	    if( session != null && session.isRecording() ) {
-				dc.setColor( Gfx.COLOR_RED , Gfx.COLOR_TRANSPARENT );
+				dc.setColor( Gfx.COLOR_GREEN , Gfx.COLOR_TRANSPARENT );
 				var hours = (counter / 3600).toLong();
 				var minutes = ((counter / 60).toLong() % 60);
 				var seconds = counter % 60;
