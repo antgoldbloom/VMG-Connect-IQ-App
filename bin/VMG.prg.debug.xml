@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
+<<<<<<< HEAD
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="24" pc="268435456" symbol="setWindDirection"/>
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="25" pc="268435468" symbol="setWindDirection"/>
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="26" pc="268435487" symbol="setWindDirection"/>
@@ -144,57 +145,195 @@
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="31" pc="268439336" symbol="getInitialView"/>
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="32" pc="268439340" symbol="getInitialView"/>
 <entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="34" pc="268439370" symbol="getInitialView"/>
+=======
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="25" pc="268435456" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="26" pc="268435460" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="27" pc="268435479" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="28" pc="268435496" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="30" pc="268435538" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="33" pc="268435563" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="34" pc="268435588" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="39" pc="268435605" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="40" pc="268435609" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="41" pc="268435622" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="42" pc="268435639" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="43" pc="268435652" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="44" pc="268435714" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="45" pc="268435732" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="46" pc="268435773" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="48" pc="268435831" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="49" pc="268435849" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="50" pc="268435890" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="52" pc="268435945" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="53" pc="268435963" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="54" pc="268435981" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="57" pc="268436000" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="58" pc="268436015" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="68" pc="268436331" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="71" pc="268436352" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="77" pc="268436386" symbol="startRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="81" pc="268436390" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="82" pc="268436394" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="83" pc="268436413" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="86" pc="268436430" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="87" pc="268436434" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="89" pc="268436447" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="90" pc="268436464" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="91" pc="268436477" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="92" pc="268436497" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="94" pc="268436518" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="95" pc="268436536" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="97" pc="268436545" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="98" pc="268436560" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="108" pc="268436876" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="111" pc="268436897" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="112" pc="268436925" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="118" pc="268436950" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="119" pc="268436968" symbol="stopRecording"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="128" pc="268436972" symbol="onLayout"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="131" pc="268436977" symbol="onHide"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="135" pc="268436982" symbol="onShow"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="142" pc="268436987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="143" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="144" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="145" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="146" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="147" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="148" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="152" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="153" pc="268437004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="154" pc="268437040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="155" pc="268437052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="157" pc="268437088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="158" pc="268437146" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="159" pc="268437164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="161" pc="268437190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="163" pc="268437251" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="164" pc="268437363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="165" pc="268437381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="167" pc="268437407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="168" pc="268437470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="170" pc="268437530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="171" pc="268437581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="173" pc="268437629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="174" pc="268437680" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="176" pc="268437728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="178" pc="268437800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="179" pc="268437832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="180" pc="268437864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="182" pc="268437896" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="183" pc="268437903" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="184" pc="268437926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="186" pc="268437980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="187" pc="268437997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="188" pc="268437997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="189" pc="268438014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="191" pc="268438077" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="193" pc="268438137" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="197" pc="268438185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="198" pc="268438221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="199" pc="268438257" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="200" pc="268438282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="201" pc="268438313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="203" pc="268438329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="204" pc="268438340" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="206" pc="268438362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="209" pc="268438375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="210" pc="268438386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="212" pc="268438408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="216" pc="268438421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="217" pc="268438438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="219" pc="268438489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="221" pc="268438505" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="226" pc="268438509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="228" pc="268438573" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="229" pc="268438609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="231" pc="268438663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="236" pc="268438717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="237" pc="268438753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="238" pc="268438765" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="241" pc="268438801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="242" pc="268438864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="243" pc="268438864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="244" pc="268438901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="251" pc="268438926" symbol="setPosition"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="252" pc="268438930" symbol="setPosition"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGView.mc" lineNum="253" pc="268438940" symbol="setPosition"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="15" pc="268438958" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="16" pc="268438962" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="17" pc="268438985" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="19" pc="268439028" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="21" pc="268439068" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="24" pc="268439083" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="27" pc="268439087" symbol="onMenu"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="28" pc="268439091" symbol="onMenu"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="31" pc="268439109" symbol="onHold"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="32" pc="268439113" symbol="onHold"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="33" pc="268439136" symbol="onHold"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="35" pc="268439179" symbol="onHold"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGDelegate.mc" lineNum="37" pc="268439199" symbol="onHold"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="16" pc="268439204" symbol="onStart"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="17" pc="268439208" symbol="onStart"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="21" pc="268439253" symbol="onStop"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="22" pc="268439257" symbol="onStop"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="23" pc="268439275" symbol="onStop"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="26" pc="268439320" symbol="onPosition"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="27" pc="268439324" symbol="onPosition"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="31" pc="268439345" symbol="getInitialView"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="32" pc="268439349" symbol="getInitialView"/>
+<entry filename="C:\\Users\\antho_000\\connectiq-sdk-win-2.2.1\\samples\\PositionSample\\source\\VMGApp.mc" lineNum="34" pc="268439379" symbol="getInitialView"/>
+>>>>>>> parent of e66a236... added support for fenix 5
 </pcToLineNum>
 <symbolTable>
-<entry id="18" object="true" symbol="PositionSampleView"/>
-<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="17" object="true" symbol="PositionSampleView"/>
+<entry id="8388987" symbol="vibrate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry id="8388645" module="true" symbol="Time"/>
-<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="8388640" module="true" symbol="Lang"/>
-<entry id="15" method="true" symbol="startRecording"/>
-<entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry id="17" method="true" symbol="stopRecording"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="14" method="true" symbol="startRecording"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="16" method="true" symbol="stopRecording"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="8388638" module="true" symbol="ActivityRecording"/>
-<entry id="8388636" module="true" symbol="Attention"/>
-<entry field="true" id="13" symbol="sessionTimer"/>
-<entry field="true" id="26" symbol="AppName"/>
+<entry id="8388638" symbol="ActivityRecording"/>
+<entry id="8388636" symbol="Attention"/>
+<entry field="true" id="12" symbol="sessionTimer"/>
+<entry field="true" id="25" symbol="AppName"/>
 <entry id="8388890" symbol="sport"/>
-<entry field="true" id="8388892" symbol="name"/>
-<entry field="true" id="27" symbol="positionView"/>
+<entry id="8388892" symbol="name"/>
+<entry field="true" id="26" symbol="positionView"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry id="8388641" module="true" symbol="Math"/>
-<entry field="true" id="25" symbol="LauncherIcon"/>
-<entry id="16" method="true" symbol="incrementTimer"/>
-<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry id="15" method="true" symbol="incrementTimer"/>
+<entry id="8388646" symbol="Timer"/>
 <entry id="8389553" method="true" symbol="onKeyPressed"/>
-<entry id="20" object="true" symbol="PositionSampleApp"/>
+<entry id="19" object="true" symbol="PositionSampleApp"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="14" method="true" symbol="setWindDirection"/>
-<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="13" method="true" symbol="setWindDirection"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="12" symbol="counter"/>
-<entry field="true" id="11" symbol="posnInfo"/>
+<entry field="true" id="11" symbol="counter"/>
+<entry field="true" id="10" symbol="posnInfo"/>
 <entry field="true" id="8388651" symbol="session"/>
-<entry id="28" method="true" symbol="onPosition"/>
-<entry id="19" object="true" symbol="PositionSampleDelegate"/>
-<entry field="true" id="24" symbol="id_crash"/>
-<entry id="23" module="true" symbol="Layouts"/>
-<entry id="8388642" module="true" symbol="Position"/>
+<entry id="27" method="true" symbol="onPosition"/>
+<entry id="18" object="true" symbol="PositionSampleDelegate"/>
+<entry field="true" id="23" symbol="id_crash"/>
+<entry id="22" module="true" symbol="Layouts"/>
+<entry id="8388642" symbol="Position"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="10" symbol="wind_dir_string"/>
-<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="9" symbol="wind_dir_string"/>
 <entry id="8389099" method="true" symbol="onHold"/>
-<entry id="21" method="true" symbol="setPosition"/>
-<entry id="22" module="true" symbol="Menus"/>
-<entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="9" symbol="wind_dir"/>
+<entry id="20" method="true" symbol="setPosition"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8" symbol="wind_dir"/>
 </symbolTable>
 <localVars>
+<<<<<<< HEAD
 <entry endPc="268435613" name="wind_dir_chg" stackId="1" startPc="268435456"/>
 <entry endPc="268436324" name="vibrateData" stackId="1" startPc="268435990"/>
 <entry endPc="268436885" name="vibrateData" stackId="1" startPc="268436551"/>
@@ -219,78 +358,82 @@
 <entry endPc="268439244" name="state" stackId="1" startPc="268439195"/>
 <entry endPc="268439311" name="state" stackId="1" startPc="268439244"/>
 <entry endPc="268439336" name="info" stackId="1" startPc="268439311"/>
+=======
+<entry endPc="268436349" name="vibrateData" stackId="1" startPc="268436015"/>
+<entry endPc="268436894" name="vibrateData" stackId="1" startPc="268436560"/>
+<entry endPc="268438185" name="clockTime" stackId="9" startPc="268437980"/>
+<entry endPc="268438185" name="timeStr" stackId="10" startPc="268437980"/>
+<entry endPc="268438557" name="hours" stackId="11" startPc="268438221"/>
+<entry endPc="268438557" name="minutes" stackId="12" startPc="268438221"/>
+<entry endPc="268438557" name="seconds" stackId="13" startPc="268438221"/>
+<entry endPc="268438714" name="accuracy" stackId="8" startPc="268437004"/>
+<entry endPc="268438925" name="bitmap" stackId="14" startPc="268438717"/>
+<entry endPc="268438925" name="speedStr" stackId="2" startPc="268436991"/>
+<entry endPc="268438925" name="VMGStr" stackId="5" startPc="268436991"/>
+<entry endPc="268438925" name="speedDecPlace" stackId="3" startPc="268436991"/>
+<entry endPc="268438925" name="VMGDecPlace" stackId="6" startPc="268436991"/>
+<entry endPc="268438925" name="headingStr" stackId="4" startPc="268436991"/>
+<entry endPc="268438925" name="timerStr" stackId="7" startPc="268436991"/>
+>>>>>>> parent of e66a236... added support for fenix 5
 </localVars>
 <annotations/>
 <functions>
-<functionEntry accessMode="public" name="setWindDirection">
+<functionEntry name="setWindDirection">
 <param id="wind_dir_chg"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="startRecording">
+<functionEntry name="startRecording">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="incrementTimer">
+<functionEntry name="incrementTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="stopRecording">
+<functionEntry name="stopRecording">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onLayout" parent="PositionSampleView">
+<functionEntry name="onLayout" parent="PositionSampleView">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="onHide" parent="PositionSampleView">
+<functionEntry name="onHide" parent="PositionSampleView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onShow" parent="PositionSampleView">
+<functionEntry name="onShow" parent="PositionSampleView">
 <documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="onUpdate" parent="PositionSampleView">
+<functionEntry name="onUpdate" parent="PositionSampleView">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="setPosition" parent="PositionSampleView">
+<functionEntry name="setPosition" parent="PositionSampleView">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onKeyPressed" parent="PositionSampleDelegate">
+<functionEntry name="onKeyPressed" parent="PositionSampleDelegate">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onMenu" parent="PositionSampleDelegate">
+<functionEntry name="onMenu" parent="PositionSampleDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onHold" parent="PositionSampleDelegate">
+<functionEntry name="onHold" parent="PositionSampleDelegate">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="PositionSampleApp">
+<functionEntry name="onStart" parent="PositionSampleApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="PositionSampleApp">
+<functionEntry name="onStop" parent="PositionSampleApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" name="onPosition" parent="PositionSampleApp">
+<functionEntry name="onPosition" parent="PositionSampleApp">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="PositionSampleApp">
+<functionEntry name="getInitialView" parent="PositionSampleApp">
 <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
 </functionEntry>
 </functions>
-<dataEntryOffsetMappings>
-<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="262" parentId="globals" symbolId="PositionSampleDelegate" type="class"/>
-<dataEntry offset="333" parentId="globals" symbolId="PositionSampleView" type="class"/>
-<dataEntry offset="420" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="499" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="546" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="577" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="608" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="639" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="670" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="709" parentId="globals" symbolId="PositionSampleApp" type="class"/>
-</dataEntryOffsetMappings>
 </debugInfo>
