@@ -14,12 +14,12 @@ using Toybox.Attention as Attention;
 using Toybox.Time as Time;
 using Toybox.Timer as Timer;
 
-	var session = null;
-	var wind_dir = 0;
-	var wind_dir_string = '0';
-	var posnInfo = null;
-	var counter = 0;
-	var sessionTimer = new Timer.Timer();
+var session = null;
+var wind_dir = 0;
+var wind_dir_string = '0';
+var posnInfo = null;
+var counter = 0;
+var sessionTimer = new Timer.Timer();
 	
 	function setWindDirection(wind_dir_chg) {
 	    wind_dir = wind_dir  + wind_dir_chg;
@@ -76,10 +76,6 @@ using Toybox.Timer as Timer;
 	}
 	
 	
-	function incrementTimer() {
-		counter += 1;
-	    Ui.requestUpdate();
-	}
 	
 	function stopRecording() {
 		if( posnInfo != null ) {
@@ -117,6 +113,12 @@ using Toybox.Timer as Timer;
 		return true;
 	
 	}
+
+	function incrementTimer() {
+		counter += 1;
+	    Ui.requestUpdate();
+	}
+
 
 class PositionSampleView extends Ui.View {
 
