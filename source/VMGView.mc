@@ -14,115 +14,117 @@ using Toybox.Attention as Attention;
 using Toybox.Time as Time;
 using Toybox.Timer as Timer;
 
-var session = null;
-var wind_dir = 0;
-var wind_dir_string = '0';
-var posnInfo = null;
-var counter = 0;
-var sessionTimer = new Timer.Timer();
-
-
-function setWindDirection(wind_dir_chg) {
-    wind_dir = wind_dir  + wind_dir_chg;
-    if (wind_dir > 359) {
-    	wind_dir = wind_dir - 360;
-    } else if (wind_dir < 0) {
-    	wind_dir = wind_dir + 360;
-    }
-    
-    wind_dir_string = wind_dir.toString();
-    Ui.requestUpdate();
+	var session = null;
+	var wind_dir = 0;
+	var wind_dir_string = '0';
+	var posnInfo = null;
+	var counter = 0;
+	var sessionTimer = new Timer.Timer();
 	
-}
-
-
-function startRecording() {
-	if( posnInfo != null ) {
-		if( Toybox has :ActivityRecording ) {
-			if( session == null )  {
-	        	session = Record.createSession({:name=>"Sailing", :sport=>Record.SPORT_GENERIC});
-	            session.start();
-				sessionTimer.start(method(:incrementTimer), 1000, true);	
-	            Ui.requestUpdate();
-	        } else if( ( session != null ) && ( session.isRecording() == false ) ) {
-	            session.start();
-				sessionTimer.start(method(:incrementTimer), 1000, true);	
-	            Ui.requestUpdate();            
-			} else if( ( session != null ) && session.isRecording() ) {
-				sessionTimer.stop();
-	            session.stop();
-	            Ui.requestUpdate();
-	        }
-			
-			if (Attention has :vibrate) {
-	        	var vibrateData = [
-	            	new Attention.VibeProfile(  25, 100 ),
-	                new Attention.VibeProfile(  50, 100 ),
-	                new Attention.VibeProfile(  75, 100 ),
-	                new Attention.VibeProfile( 100, 100 ),
-	                new Attention.VibeProfile(  75, 100 ),
-	                new Attention.VibeProfile(  50, 100 ),
-	                new Attention.VibeProfile(  25, 100 )
-				];
-	
-				Attention.vibrate(vibrateData);
-			}
-	
-			Attention.playTone(Attention.TONE_START);
-			
-			
-		}
+	function setWindDirection(wind_dir_chg) {
+	    wind_dir = wind_dir  + wind_dir_chg;
+	    if (wind_dir > 359) {
+	    	wind_dir = wind_dir - 360;
+	    } else if (wind_dir < 0) {
+	    	wind_dir = wind_dir + 360;
+	    }
+	    
+	    wind_dir_string = wind_dir.toString();
+	    Ui.requestUpdate();
+		
 	}
-
-	return true;
-}
-
-
-function incrementTimer() {
-	counter += 1;
-    Ui.requestUpdate();
-}
-
-function stopRecording() {
-	if( posnInfo != null ) {
-        
-        if( Toybox has :ActivityRecording ) {
-            if( session != null ) {
-				if (session.isRecording()) {
-                	session.stop();
-                }
-                session.save();
-                session = null;
-
+	
+	
+	function startRecording() {
+		if( posnInfo != null ) {
+			if( Toybox has :ActivityRecording ) {
+				if( session == null )  {
+		        	session = Record.createSession({:name=>"Sailing", :sport=>Record.SPORT_GENERIC});
+		            session.start();
+					sessionTimer.start(method(:incrementTimer), 1000, true);	
+		            Ui.requestUpdate();
+		        } else if( ( session != null ) && ( session.isRecording() == false ) ) {
+		            session.start();
+					sessionTimer.start(method(:incrementTimer), 1000, true);	
+		            Ui.requestUpdate();            
+				} else if( ( session != null ) && session.isRecording() ) {
+					sessionTimer.stop();
+		            session.stop();
+		            Ui.requestUpdate();
+		        }
+				
 				if (Attention has :vibrate) {
-	        		var vibrateData = [
-	            		new Attention.VibeProfile(  25, 100 ),
-	                	new Attention.VibeProfile(  50, 100 ),
-	                	new Attention.VibeProfile(  75, 100 ),
-	                	new Attention.VibeProfile( 100, 100 ),
-	                	new Attention.VibeProfile(  75, 100 ),
-	                	new Attention.VibeProfile(  50, 100 ),
-	                	new Attention.VibeProfile(  25, 100 )
+		        	var vibrateData = [
+		            	new Attention.VibeProfile(  25, 100 ),
+		                new Attention.VibeProfile(  50, 100 ),
+		                new Attention.VibeProfile(  75, 100 ),
+		                new Attention.VibeProfile( 100, 100 ),
+		                new Attention.VibeProfile(  75, 100 ),
+		                new Attention.VibeProfile(  50, 100 ),
+		                new Attention.VibeProfile(  25, 100 )
 					];
-
+		
 					Attention.vibrate(vibrateData);
 				}
-
-				Attention.playTone(Attention.TONE_STOP);
-				Ui.requestUpdate();
 		
-    		}
+				Attention.playTone(Attention.TONE_START);
+				
+				
+			}
 		}
-
+	
+		return true;
 	}
-	sessionTimer.stop();
-	return true;
-
-}
+	
+	
+	function incrementTimer() {
+		counter += 1;
+	    Ui.requestUpdate();
+	}
+	
+	function stopRecording() {
+		if( posnInfo != null ) {
+	        
+	        if( Toybox has :ActivityRecording ) {
+	            if( session != null ) {
+					if (session.isRecording()) {
+	                	session.stop();
+	                }
+	                session.save();
+	                session = null;
+	
+					if (Attention has :vibrate) {
+		        		var vibrateData = [
+		            		new Attention.VibeProfile(  25, 100 ),
+		                	new Attention.VibeProfile(  50, 100 ),
+		                	new Attention.VibeProfile(  75, 100 ),
+		                	new Attention.VibeProfile( 100, 100 ),
+		                	new Attention.VibeProfile(  75, 100 ),
+		                	new Attention.VibeProfile(  50, 100 ),
+		                	new Attention.VibeProfile(  25, 100 )
+						];
+	
+						Attention.vibrate(vibrateData);
+					}
+	
+					Attention.playTone(Attention.TONE_STOP);
+					Ui.requestUpdate();
+			
+	    		}
+			}
+	
+		}
+		sessionTimer.stop();
+		return true;
+	
+	}
 
 class PositionSampleView extends Ui.View {
 
+	function initialize() { 
 
+		View.initialize(); // Initialize the UI
+	}
 
     //! Load your resources here
     function onLayout(dc) {

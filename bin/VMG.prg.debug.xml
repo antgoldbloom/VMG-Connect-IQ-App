@@ -1,142 +1,144 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="25" pc="268435456" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="26" pc="268435468" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="27" pc="268435487" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="28" pc="268435504" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="30" pc="268435546" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="33" pc="268435571" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="34" pc="268435596" symbol="setWindDirection"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="39" pc="268435613" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="40" pc="268435625" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="41" pc="268435638" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="42" pc="268435655" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="43" pc="268435668" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="44" pc="268435730" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="45" pc="268435748" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="46" pc="268435789" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="48" pc="268435847" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="49" pc="268435865" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="50" pc="268435906" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="52" pc="268435961" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="53" pc="268435979" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="54" pc="268435997" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="57" pc="268436016" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="58" pc="268436031" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="68" pc="268436347" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="71" pc="268436368" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="77" pc="268436402" symbol="startRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="81" pc="268436406" symbol="incrementTimer"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="82" pc="268436418" symbol="incrementTimer"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="83" pc="268436437" symbol="incrementTimer"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="86" pc="268436454" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="87" pc="268436466" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="89" pc="268436479" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="90" pc="268436496" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="91" pc="268436509" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="92" pc="268436529" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="94" pc="268436550" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="95" pc="268436568" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="97" pc="268436577" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="98" pc="268436592" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="108" pc="268436908" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="111" pc="268436929" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="112" pc="268436957" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="118" pc="268436982" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="119" pc="268437000" symbol="stopRecording"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="128" pc="268437004" symbol="onLayout"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="131" pc="268437009" symbol="onHide"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="135" pc="268437014" symbol="onShow"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="142" pc="268437019" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="143" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="144" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="145" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="146" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="147" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="148" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="152" pc="268437023" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="153" pc="268437036" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="154" pc="268437072" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="155" pc="268437084" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="157" pc="268437120" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="158" pc="268437178" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="159" pc="268437196" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="161" pc="268437222" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="163" pc="268437283" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="164" pc="268437395" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="165" pc="268437413" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="167" pc="268437439" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="168" pc="268437502" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="170" pc="268437562" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="171" pc="268437613" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="173" pc="268437661" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="174" pc="268437712" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="176" pc="268437760" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="178" pc="268437832" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="179" pc="268437864" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="180" pc="268437896" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="182" pc="268437928" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="183" pc="268437935" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="184" pc="268437958" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="186" pc="268438012" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="187" pc="268438029" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="188" pc="268438029" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="189" pc="268438046" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="191" pc="268438109" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="193" pc="268438169" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="197" pc="268438217" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="198" pc="268438253" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="199" pc="268438289" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="200" pc="268438314" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="201" pc="268438345" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="203" pc="268438361" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="204" pc="268438372" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="206" pc="268438394" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="209" pc="268438407" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="210" pc="268438418" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="212" pc="268438440" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="216" pc="268438453" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="217" pc="268438470" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="219" pc="268438521" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="221" pc="268438537" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="226" pc="268438541" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="228" pc="268438605" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="229" pc="268438641" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="231" pc="268438695" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="236" pc="268438749" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="237" pc="268438785" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="238" pc="268438797" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="241" pc="268438833" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="242" pc="268438896" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="243" pc="268438896" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="244" pc="268438933" symbol="onUpdate"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="251" pc="268438958" symbol="setPosition"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="252" pc="268438962" symbol="setPosition"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="253" pc="268438972" symbol="setPosition"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="15" pc="268438990" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="16" pc="268438994" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="17" pc="268439017" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="19" pc="268439060" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="21" pc="268439100" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="24" pc="268439115" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="27" pc="268439119" symbol="onMenu"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="28" pc="268439123" symbol="onMenu"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="31" pc="268439141" symbol="onHold"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="32" pc="268439145" symbol="onHold"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="33" pc="268439168" symbol="onHold"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="35" pc="268439211" symbol="onHold"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="37" pc="268439231" symbol="onHold"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="16" pc="268439236" symbol="onStart"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="17" pc="268439240" symbol="onStart"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="21" pc="268439285" symbol="onStop"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="22" pc="268439289" symbol="onStop"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="23" pc="268439307" symbol="onStop"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="26" pc="268439352" symbol="onPosition"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="27" pc="268439356" symbol="onPosition"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="31" pc="268439377" symbol="getInitialView"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="32" pc="268439381" symbol="getInitialView"/>
-<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="34" pc="268439411" symbol="getInitialView"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="24" pc="268435456" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="25" pc="268435468" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="26" pc="268435487" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="27" pc="268435504" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="29" pc="268435546" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="32" pc="268435571" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="33" pc="268435596" symbol="setWindDirection"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="38" pc="268435613" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="39" pc="268435625" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="40" pc="268435638" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="41" pc="268435655" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="42" pc="268435668" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="43" pc="268435730" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="44" pc="268435748" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="45" pc="268435789" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="47" pc="268435847" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="48" pc="268435865" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="49" pc="268435906" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="51" pc="268435961" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="52" pc="268435979" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="53" pc="268435997" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="56" pc="268436016" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="57" pc="268436031" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="67" pc="268436347" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="70" pc="268436368" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="76" pc="268436402" symbol="startRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="80" pc="268436406" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="81" pc="268436418" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="82" pc="268436437" symbol="incrementTimer"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="85" pc="268436454" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="86" pc="268436466" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="88" pc="268436479" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="89" pc="268436496" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="90" pc="268436509" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="91" pc="268436529" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="93" pc="268436550" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="94" pc="268436568" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="96" pc="268436577" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="97" pc="268436592" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="107" pc="268436908" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="110" pc="268436929" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="111" pc="268436957" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="117" pc="268436982" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="118" pc="268437000" symbol="stopRecording"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="124" pc="268437004" symbol="initialize"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="126" pc="268437008" symbol="initialize"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="130" pc="268437027" symbol="onLayout"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="133" pc="268437032" symbol="onHide"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="137" pc="268437037" symbol="onShow"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="144" pc="268437042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="145" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="146" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="147" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="148" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="149" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="150" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="154" pc="268437046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="155" pc="268437059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="156" pc="268437095" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="157" pc="268437107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="159" pc="268437143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="160" pc="268437201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="161" pc="268437219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="163" pc="268437245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="165" pc="268437306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="166" pc="268437418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="167" pc="268437436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="169" pc="268437462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="170" pc="268437525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="172" pc="268437585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="173" pc="268437636" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="175" pc="268437684" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="176" pc="268437735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="178" pc="268437783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="180" pc="268437855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="181" pc="268437887" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="182" pc="268437919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="184" pc="268437951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="185" pc="268437958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="186" pc="268437981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="188" pc="268438035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="189" pc="268438052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="190" pc="268438052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="191" pc="268438069" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="193" pc="268438132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="195" pc="268438192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="199" pc="268438240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="200" pc="268438276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="201" pc="268438312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="202" pc="268438337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="203" pc="268438368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="205" pc="268438384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="206" pc="268438395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="208" pc="268438417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="211" pc="268438430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="212" pc="268438441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="214" pc="268438463" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="218" pc="268438476" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="219" pc="268438493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="221" pc="268438544" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="223" pc="268438560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="228" pc="268438564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="230" pc="268438628" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="231" pc="268438664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="233" pc="268438718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="238" pc="268438772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="239" pc="268438808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="240" pc="268438820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="243" pc="268438856" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="244" pc="268438919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="245" pc="268438919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="246" pc="268438956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="253" pc="268438981" symbol="setPosition"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="254" pc="268438985" symbol="setPosition"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGView.mc" lineNum="255" pc="268438995" symbol="setPosition"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="16" pc="268439012" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="17" pc="268439016" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="18" pc="268439039" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="20" pc="268439082" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="22" pc="268439122" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="25" pc="268439137" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="28" pc="268439141" symbol="onMenu"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="29" pc="268439145" symbol="onMenu"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="32" pc="268439163" symbol="onHold"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="33" pc="268439167" symbol="onHold"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="34" pc="268439190" symbol="onHold"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="36" pc="268439233" symbol="onHold"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGDelegate.mc" lineNum="38" pc="268439253" symbol="onHold"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="16" pc="268439258" symbol="onStart"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="17" pc="268439262" symbol="onStart"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="21" pc="268439307" symbol="onStop"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="22" pc="268439311" symbol="onStop"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="23" pc="268439329" symbol="onStop"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="26" pc="268439374" symbol="onPosition"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="27" pc="268439378" symbol="onPosition"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="31" pc="268439399" symbol="getInitialView"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="32" pc="268439403" symbol="getInitialView"/>
+<entry filename="C:\\Users\\goldbloom\\Dropbox\\Side Projects\\Eclipse\\ConnectIQ\\VMG-Connect-IQ-App\\source\\VMGApp.mc" lineNum="34" pc="268439433" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="18" object="true" symbol="PositionSampleView"/>
@@ -154,6 +156,7 @@
 <entry id="8388638" module="true" symbol="ActivityRecording"/>
 <entry id="8388636" module="true" symbol="Attention"/>
 <entry field="true" id="13" symbol="sessionTimer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="26" symbol="AppName"/>
 <entry id="8388890" symbol="sport"/>
 <entry field="true" id="8388892" symbol="name"/>
@@ -191,27 +194,27 @@
 <entry endPc="268435613" name="wind_dir_chg" stackId="1" startPc="268435456"/>
 <entry endPc="268436365" name="vibrateData" stackId="1" startPc="268436031"/>
 <entry endPc="268436926" name="vibrateData" stackId="1" startPc="268436592"/>
-<entry endPc="268437009" name="dc" stackId="1" startPc="268437004"/>
-<entry endPc="268438217" name="clockTime" stackId="9" startPc="268438012"/>
-<entry endPc="268438217" name="timeStr" stackId="10" startPc="268438012"/>
-<entry endPc="268438589" name="hours" stackId="11" startPc="268438253"/>
-<entry endPc="268438589" name="minutes" stackId="12" startPc="268438253"/>
-<entry endPc="268438589" name="seconds" stackId="13" startPc="268438253"/>
-<entry endPc="268438746" name="accuracy" stackId="8" startPc="268437036"/>
-<entry endPc="268438957" name="bitmap" stackId="14" startPc="268438749"/>
-<entry endPc="268438957" name="speedStr" stackId="2" startPc="268437023"/>
-<entry endPc="268438957" name="VMGStr" stackId="5" startPc="268437023"/>
-<entry endPc="268438957" name="speedDecPlace" stackId="3" startPc="268437023"/>
-<entry endPc="268438957" name="VMGDecPlace" stackId="6" startPc="268437023"/>
-<entry endPc="268438957" name="headingStr" stackId="4" startPc="268437023"/>
-<entry endPc="268438957" name="timerStr" stackId="7" startPc="268437023"/>
-<entry endPc="268438958" name="dc" stackId="1" startPc="268437019"/>
-<entry endPc="268438989" name="info" stackId="1" startPc="268438958"/>
-<entry endPc="268439119" name="evt" stackId="1" startPc="268438990"/>
-<entry endPc="268439235" name="evt" stackId="1" startPc="268439141"/>
-<entry endPc="268439285" name="state" stackId="1" startPc="268439236"/>
-<entry endPc="268439352" name="state" stackId="1" startPc="268439285"/>
-<entry endPc="268439377" name="info" stackId="1" startPc="268439352"/>
+<entry endPc="268437032" name="dc" stackId="1" startPc="268437027"/>
+<entry endPc="268438240" name="clockTime" stackId="9" startPc="268438035"/>
+<entry endPc="268438240" name="timeStr" stackId="10" startPc="268438035"/>
+<entry endPc="268438612" name="hours" stackId="11" startPc="268438276"/>
+<entry endPc="268438612" name="minutes" stackId="12" startPc="268438276"/>
+<entry endPc="268438612" name="seconds" stackId="13" startPc="268438276"/>
+<entry endPc="268438769" name="accuracy" stackId="8" startPc="268437059"/>
+<entry endPc="268438980" name="bitmap" stackId="14" startPc="268438772"/>
+<entry endPc="268438980" name="speedStr" stackId="2" startPc="268437046"/>
+<entry endPc="268438980" name="VMGStr" stackId="5" startPc="268437046"/>
+<entry endPc="268438980" name="speedDecPlace" stackId="3" startPc="268437046"/>
+<entry endPc="268438980" name="VMGDecPlace" stackId="6" startPc="268437046"/>
+<entry endPc="268438980" name="headingStr" stackId="4" startPc="268437046"/>
+<entry endPc="268438980" name="timerStr" stackId="7" startPc="268437046"/>
+<entry endPc="268438981" name="dc" stackId="1" startPc="268437042"/>
+<entry endPc="268439012" name="info" stackId="1" startPc="268438981"/>
+<entry endPc="268439141" name="evt" stackId="1" startPc="268439012"/>
+<entry endPc="268439257" name="evt" stackId="1" startPc="268439163"/>
+<entry endPc="268439307" name="state" stackId="1" startPc="268439258"/>
+<entry endPc="268439374" name="state" stackId="1" startPc="268439307"/>
+<entry endPc="268439399" name="info" stackId="1" startPc="268439374"/>
 </localVars>
 <annotations/>
 <functions>
@@ -226,6 +229,9 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="stopRecording">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PositionSampleView">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onLayout" parent="PositionSampleView">

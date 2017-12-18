@@ -11,7 +11,8 @@ using Toybox.System as Sys;
 
 class PositionSampleDelegate extends Ui.BehaviorDelegate {
 
-
+ 	
+ 
     function onKeyPressed(evt) {
         if( evt.getKey() == KEY_UP ) {
             setWindDirection(1);        
@@ -37,7 +38,6 @@ class PositionSampleDelegate extends Ui.BehaviorDelegate {
         return true;
     }
     
-
 
 
 }
