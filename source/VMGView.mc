@@ -41,7 +41,6 @@ using Toybox.Timer as Timer;
 				if( session == null )  {
 		        	session = Record.createSession({:name=>"Sailing", :sport=>Record.SPORT_GENERIC});
 		            session.start();
-					sessionTimer.start(method(:incrementTimer), 1000, true);	
 		            Ui.requestUpdate();
 		        } else if( ( session != null ) && ( session.isRecording() == false ) ) {
 		            session.start();
@@ -120,11 +119,6 @@ using Toybox.Timer as Timer;
 	}
 
 class PositionSampleView extends Ui.View {
-
-	function initialize() { 
-
-		View.initialize(); // Initialize the UI
-	}
 
     //! Load your resources here
     function onLayout(dc) {
